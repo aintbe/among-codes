@@ -1,3 +1,6 @@
-[submodule "qingdao-judger"]
-	path = qingdao-judger
+[submodule "qingdao-judge"]
+	path = qingdao-judge
 	url = https://github.com/QingdaoU/Judger.git
+[submodule "codedang-judge"]
+	path = codedang-judge
+	url = https://github.com/skkuding/Judger.git
